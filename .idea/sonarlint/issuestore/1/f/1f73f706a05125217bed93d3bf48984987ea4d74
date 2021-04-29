@@ -1,0 +1,7 @@
+
+{
+java:S1488:"`Immediately return this expression instead of assigning it to the temporary variable "bookings".(ŽÁ”Ðûÿÿÿÿ
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(îØ‡±8ì”·–ƒ/
+^
+java:S3824."HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(ÌãÚñ

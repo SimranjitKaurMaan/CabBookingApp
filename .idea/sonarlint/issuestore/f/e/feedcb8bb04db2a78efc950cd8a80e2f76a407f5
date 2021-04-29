@@ -1,0 +1,23 @@
+
+E
+java:S14819"/Remove this unused "bookingId4" local variable.(“¾Ê
+T
+java:S1854%">Remove this useless assignment to local variable "bookingId1".(ŠÑË‡
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(”ÝÕç
+T
+java:S18549">Remove this useless assignment to local variable "bookingId4".(“¾Ê
+I
+java:S1128"-Remove this unused import 'org.junit.Assert'.(­ÞL8Êù„”ˆ/
+T
+java:S18542">Remove this useless assignment to local variable "bookingId3".(ä¦–ô
+Y
+java:S1854+">Remove this useless assignment to local variable "bookingId2".(Ôþ²úúÿÿÿÿ
+E
+java:S14812"/Remove this unused "bookingId3" local variable.(ä¦–ô
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(”ÝÕç
+J
+java:S1481+"/Remove this unused "bookingId2" local variable.(Ôþ²úúÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(”ÝÕç
+E
+java:S1481%"/Remove this unused "bookingId1" local variable.(ŠÑË‡
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(”ÝÕç
